@@ -1,0 +1,44 @@
+/* custom.css */
+
+.container {
+    max-width: 800px;
+  }
+  
+  .card {
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  h2 {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+  }
+  
+  h5 {
+    font-family: 'Arial', sans-serif;
+    color: #555;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .input-group {
+    display: flex;
+  }
+  
+  .input-group-append .btn {
+    margin-left: 5px;
+  }
+  
+  .btn-primary,
+  .btn-success,
+  .btn-info,
+  .btn-danger {
+    margin-right: 10px;
+  }
+  
